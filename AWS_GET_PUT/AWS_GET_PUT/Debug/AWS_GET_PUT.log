@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Admin\Downloads\IMIC-20200607T050941Z-001\IMIC\AWS_S3_Project\AWS_GET_PUT\AWS_GET_PUT\main.cpp(56,21): warning C4018: '<': signed/unsigned mismatch
+  AWS_GET_PUT.vcxproj -> C:\Users\Admin\Downloads\IMIC-20200607T050941Z-001\IMIC\AWS_S3_Project\AWS_GET_PUT\Debug\AWS_GET_PUT.exe
